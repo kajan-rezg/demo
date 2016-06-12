@@ -6,6 +6,11 @@ public class DemoMain {
 		System.out.println("This is for develop branch");
 		System.out.println("jira id 1 added");
 		System.out.println("jira id 2 added");
+		System.out.println("jira id 3 added");
+	}
+	
+	public void jiraId3(){
+		System.out.println("jira id 3 method added");
 	}
 
 }
