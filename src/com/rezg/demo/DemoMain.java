@@ -13,4 +13,8 @@ public class DemoMain {
 		System.out.println("jira id 3 method added");
 	}
 
+	public void jiraId4(){
+		System.out.println("jira id 4 method added");
+	}
+
 }
